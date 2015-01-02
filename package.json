@@ -1,7 +1,7 @@
 {
   "name": "dot-require",
-  "version": "1.0.0",
-  "description": "Node.js extension installed for doT templates",
+  "version": "1.0.1",
+  "description": "Node.js extension installer for doT templates",
   "main": "index.js",
   "scripts": {
     "test": "mocha"

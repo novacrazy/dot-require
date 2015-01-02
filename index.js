@@ -69,9 +69,7 @@ exports.install = function install(options) {
 
         require.extensions[compile.extension] = compile;
 
-        if( !options.dontInstall ) {
-            installed = true;
-        }
+        installed = true;
     }
 
     return compile;

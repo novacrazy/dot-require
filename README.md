@@ -38,6 +38,10 @@ And to uninstall:
 
 ##Changelog
 
+#####1.0.1
+* Accidentally a word
+* Removed unnecessary testing code
+
 #####1.0.0
 * Initial release
 
