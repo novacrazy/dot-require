@@ -1,6 +1,8 @@
 dot-require
 ===========
 
+### This project is defunct and outdated. I would not recommend using it, but feel free to browse the code and steal anything useful.
+
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
 
